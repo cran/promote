@@ -1,8 +1,8 @@
 Package: promote
 Type: Package
 Title: Client for the 'Alteryx Promote' API
-Version: 1.1.0
-Date: 2018-11-07
+Version: 1.1.1
+Date: 2019-02-05
 Author: Paul E. Promote <promotedev@alteryx.com>
 Maintainer: Paul E. Promote <promotedev@alteryx.com>
 Description: Deploy, maintain, and invoke predictive models using the 'Alteryx
@@ -15,6 +15,6 @@ License: FreeBSD
 RoxygenNote: 6.1.0
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2018-11-07 19:34:29 UTC; msmith
+Packaged: 2019-02-06 14:10:26 UTC; msmith
 Repository: CRAN
-Date/Publication: 2018-11-07 20:10:08 UTC
+Date/Publication: 2019-02-06 14:30:03 UTC
